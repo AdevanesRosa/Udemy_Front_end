@@ -2,17 +2,17 @@
 
 # Assuntos abordados nesse projeto
 
-# Cabeçalhos
-# Parágrafos
-# Formatações de textos
-# Listas ordenadas e não ordenadas
-# Testando conhecimentos
-# Imagens
-# Links
-# Tabelas
-# Formulários 
-# Componentes de formulários 
-# Caracteres especiais
+1 - Cabeçalhos
+2 - Parágrafos
+3 - Formatações de textos
+4 - Listas ordenadas e não ordenadas
+5 - Testando conhecimentos
+6 - Imagens
+7 - Links
+8 - Tabelas
+9 - Formulários 
+10 - Componentes de formulários 
+11 - Caracteres especiais
 
 
 # requisitos Visual Studio Code
