@@ -2,7 +2,7 @@
 
 # Assuntos abordados nesse projeto
 
-1 - Cabeçalhos
+1 - Cabeçalhos <br>
 2 - Parágrafos
 3 - Formatações de textos
 4 - Listas ordenadas e não ordenadas
